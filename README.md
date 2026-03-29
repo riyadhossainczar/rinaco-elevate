@@ -308,6 +308,6 @@ Found a bug or have an idea?
 
 ## License
 
-Free to use, modify, and share.
+Feel free to use, modify and share.
 
-Made with 🤩.
+Made with love by Riyad Hossain Czar.

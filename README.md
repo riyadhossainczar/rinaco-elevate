@@ -1,5 +1,6 @@
 # Rinaco Elevate (CLI-G)
-Version : v1.5.19-B3 [FIB] #7a2b9f1
+# Rinaco : Elevate Your Habit.
+# Version : v1.5.19-B3 [FIB] #7a2b9f1
 
 A terminal-based recovery tracker with real-time countdown.
 
